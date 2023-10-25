@@ -135,6 +135,7 @@ protobuf==3.20.3
 psutil==5.9.5
 psycopg2==2.9.7
 psycopg2-binary==2.9.7
+psycopg2-binary==2.9.1
 pure-eval==0.2.2
 pyarrow==11.0.0
 pycparser==2.21
