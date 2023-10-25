@@ -70,7 +70,7 @@ def passes_leading_to_shots(competition_id, season_id, home_team, away_team):
                 edgecolors="white", c="#22312b", s=700, zorder=2,
                 label="shot", ax=axs["pitch"])
 
-    axs["title"].text(0.5, 0.5, f"{TEAM1} passes leading to shots \n vs {TEAM2}", color="#dee6ea",
+    axs["title"].text(0.5, 0.5, f"{TEAM1} Passes Leading to Shots", color="#dee6ea",
                     va="center", ha="center", fontsize=25)
 
     #plt.savefig("passes_to_shots")
