@@ -6,10 +6,7 @@ import matplotlib.pyplot as plt
 import sys
 import os
 sys.path.insert(0, "css/")
-sys.path.insert(1, "data_visualisation_functions/def_actions")
-sys.path.insert(1, "data_visualisation_functions/formations")
-sys.path.insert(1, "data_visualisation_functions/passing")
-sys.path.insert(1, "data_visualisation_functions/xg")
+sys.path.insert(1, "visualisations/")
 
 from defensive_actions import * 
 from get_formations import *
