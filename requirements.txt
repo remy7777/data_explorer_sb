@@ -75,7 +75,7 @@ Jinja2==3.1.2
 joblib==1.1.1
 json5==0.9.14
 jsonpointer==2.4
-jsonschema==4.17.3
+jsonschema
 jsonschema-specifications==2023.7.1
 jupyter-events==0.7.0
 jupyter-lsp==2.2.0
