@@ -19,7 +19,7 @@ from cumulative_xg import *
 
 # Page Configuration
 #region  ----------------------------------------- #
-page_config = st.set_page_config(page_title="SB Data Explorer", page_icon=":soccer:", #change 
+page_config = st.set_page_config(page_title="SB Data Explorer", page_icon=":soccer:", 
                                  layout="centered", initial_sidebar_state="auto",
                                  menu_items={
                                         "Get Help": "mailto:remiawosanya8@gmail.com",
